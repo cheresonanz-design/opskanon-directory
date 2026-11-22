@@ -1,0 +1,21 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "OpsKanon — Executive B2B Briefing",
+  "home_page_url": "https://cheresonanz-design.github.io/opskanon-directory/",
+  "feed_url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/feed.json",
+  "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
+  "items": [
+    {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-001-zero-bloat-b2b-ops-stack/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-001-zero-bloat-b2b-ops-stack/",
+      "title": "Issue #001: Why Static Calculators & Verified Checklists Outconvert SaaS Bloat in 2026",
+      "summary": "How boutique agencies and DACH SMEs cut margin leakage by 15-30% using zero-macro spreadsheets, deterministic validation, and self-serve Stripe workflows.",
+      "content_text": "# Issue #001: Why Static Calculators & Verified Checklists Outconvert SaaS Bloat in 2026\n\n- **Published:** 2026-11-22\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow boutique agencies and DACH SMEs cut margin leakage by 15-30% using zero-macro spreadsheets, deterministic validation, and self-serve Stripe workflows.\n\n## Lead Insight\nBuyers in B2B ops are fatigued by $49/month dashboards that require weeks of onboarding. Tools that deliver an instant answer in the browser (like MarginProof's 4 calculators) and hand off to a portable template convert faster with near-zero support overhead.\n\n## Featured Directory Listings\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n- **EchoMoral EU AI Act & Policy OS** (EU Compliance & AI Governance) — Risk classification, NIS2/DORA readiness matrices and contract redlining playbooks. [Planned B2B Portal (Phase 1/2)]\n\n## Sponsor Spotlight\n**Sponsor Slot Available — Reach B2B Ops & Agency Decision Makers** — Book Issue #002 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-22T08:00:00Z",
+      "tags": [
+        "agency-finance-pricing",
+        "eu-compliance-governance"
+      ]
+    }
+  ]
+}
