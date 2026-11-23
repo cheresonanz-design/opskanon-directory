@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-008-gobd-accounting-compliance-training-dach/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-008-gobd-accounting-compliance-training-dach/",
+      "title": "Issue #008: GoBD Bookkeeping, EU AI Act Staff Literacy & Sovereign Workflow Databases in DACH",
+      "summary": "How German SMEs pair automated XRechnung/ZUGFeRD bookkeeping, EU AI Act Art. 4 employee training, and German-hosted no-code databases without US-cloud lock-in.",
+      "content_text": "# Issue #008: GoBD Bookkeeping, EU AI Act Staff Literacy & Sovereign Workflow Databases in DACH\n\n- **Published:** 2026-11-23\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow German SMEs pair automated XRechnung/ZUGFeRD bookkeeping, EU AI Act Art. 4 employee training, and German-hosted no-code databases without US-cloud lock-in.\n\n## Lead Insight\nTechnical tooling alone fails compliance audits when staff lack documented EU AI Act literacy or operational data lives in fragmented spreadsheets. Combining deterministic XRechnung pre-checks and GoBD bookkeeping (BuchhaltungsButler, CheDataCheck) with auditable compliance e-learning (lawpilots, EchoMoral) and German-hosted workflow databases (SeaTable) delivers end-to-end audit readiness.\n\n## Featured Directory Listings\n- **BuchhaltungsButler** (E-Invoicing & Audit Automation) — Berlin-based GoBD-compliant cloud bookkeeping with automated XRechnung & ZUGFeRD parsing, Sichtkopie generation, and DATEV/ELSTER export. [From ~39.90 EUR/month (Light/Smart/Premium tiers)]\n- **lawpilots** (EU Compliance & AI Governance) — Berlin-based interactive compliance e-learning covering GDPR, EU AI Act Art. 4 literacy, NIS2, and information security for B2B teams. [B2B SaaS / LMS SCORM & xAPI Licenses (Custom Quote)]\n- **SeaTable** (B2B Workflow & Lead Ops) — Mainz-based GDPR-compliant no-code database, workflow automation, and app builder hosted in certified German data centers or self-hosted via Docker. [Free (up to 25 users) / Plus from ~7 EUR/user/mo / Enterprise]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR Rollout]\n- **EchoMoral EU AI Act & Policy OS** (EU Compliance & AI Governance) — Free 100% client-side EU AI Act, NIS2 & DORA readiness triage in browser with zero data upload. [Free Browser Triage / 49 EUR Governance Pack / 3,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Legal & Ops Buyers** — Book Issue #009 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-23T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "eu-compliance-governance",
+        "workflow-lead-ops",
+        "einvoicing-tax-audit",
+        "eu-compliance-governance"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-007-gobd-expenses-ai-governance-dach/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-007-gobd-expenses-ai-governance-dach/",
       "title": "Issue #007: GoBD Expense Automation, Sovereign Project Ops & EU AI Act Governance in DACH",
