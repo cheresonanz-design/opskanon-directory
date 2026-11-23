@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-005-corporate-card-spend-agency-capacity-dach/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-005-corporate-card-spend-agency-capacity-dach/",
+      "title": "Issue #005: Corporate Card Governance, Direct DATEV Sync & Sovereign Agency Capacity in DACH",
+      "summary": "How European agencies and mid-market finance teams pair API-driven corporate cards, pre-accounting, and German-hosted capacity planning to protect margins.",
+      "content_text": "# Issue #005: Corporate Card Governance, Direct DATEV Sync & Sovereign Agency Capacity in DACH\n\n- **Published:** 2026-11-23\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow European agencies and mid-market finance teams pair API-driven corporate cards, pre-accounting, and German-hosted capacity planning to protect margins.\n\n## Lead Insight\nCard sprawl and unbilled scope creep quietly erode operating cash flow. Combining regulated DACH spend control (Pliant, Moss, finway) with ISO 27001 resource scheduling (awork, Stackfield) gives founders real-time gross margin and clean DATEV closes without US-cloud lock-in.\n\n## Featured Directory Listings\n- **Pliant** (E-Invoicing & Audit Automation) — Berlin-based B2B corporate credit card platform with automated receipt matching, VAT workflows, and ERP/DATEV API integrations. [B2B SaaS + Cashback / Card Tiers (Custom Quote)]\n- **Moss** (E-Invoicing & Audit Automation) — Berlin-based holistic corporate spend management combining cards, invoice OCR/e-invoicing, reimbursements, and direct DATEV export. [B2B SaaS Tiered (Custom Quote)]\n- **awork** (B2B Workflow & Lead Ops) — Hamburg-based ISO 27001 agency & team work-management suite with capacity planning, time tracking, and German Azure hosting. [From ~9.90 EUR/user/mo (Team annual)]\n- **Clockodo** (Agency Finance & Margin Ops) — German project time tracking, billable budget controlling, and invoicing integration for agencies and consultancies. [From 9.50 EUR/user/mo (Pro annual) / Free solo tier]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Ops & Agency Leaders** — Book Issue #006 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-23T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "einvoicing-tax-audit",
+        "workflow-lead-ops",
+        "agency-finance-pricing",
+        "agency-finance-pricing"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-004-agency-budget-control-spend-einvoicing/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-004-agency-budget-control-spend-einvoicing/",
       "title": "Issue #004: Agency Margin Defense, Spend Governance & 2027 E-Invoice Readiness in DACH",
