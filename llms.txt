@@ -12,12 +12,12 @@
 
 ## Categories
 
-- [Agency Finance & Margin Ops](https://cheresonanz-design.github.io/opskanon-directory/categories/agency-finance-pricing/) (5 tools): Pricing calculators, retainer profitability trackers, multi-currency cashflow & invoicing toolkits for agencies and consultants.
+- [Agency Finance & Margin Ops](https://cheresonanz-design.github.io/opskanon-directory/categories/agency-finance-pricing/) (6 tools): Pricing calculators, retainer profitability trackers, multi-currency cashflow & invoicing toolkits for agencies and consultants.
 - [EU Compliance & AI Governance](https://cheresonanz-design.github.io/opskanon-directory/categories/eu-compliance-governance/) (8 tools): Checklists, policy playbooks and audit readiness tooling for EU AI Act, NIS2, DORA, GPSR and EUDR.
-- [E-Invoicing & Audit Automation](https://cheresonanz-design.github.io/opskanon-directory/categories/einvoicing-tax-audit/) (6 tools): XRechnung/ZUGFeRD validation, automated pre-accounting, receipt extraction and FinOps waste audits.
+- [E-Invoicing & Audit Automation](https://cheresonanz-design.github.io/opskanon-directory/categories/einvoicing-tax-audit/) (7 tools): XRechnung/ZUGFeRD validation, automated pre-accounting, receipt extraction and FinOps waste audits.
 - [B2B Workflow & Lead Ops](https://cheresonanz-design.github.io/opskanon-directory/categories/workflow-lead-ops/) (3 tools): Zero-bloat intake pipelines, RFP/tender response engines, enrichment APIs and static-first micro-tools.
 
-## Listed B2B Tools (22)
+## Listed B2B Tools (24)
 
 - **MarginProof Operations Stack** (Agency Finance & Margin Ops | Global (EN) | One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout): Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/marginproof-agency-ops/ | Official: https://cheresonanz-design.github.io/marginproof-portal/
 - **ImportKlar Customs & GPSR Kit** (EU Compliance & AI Governance | DACH & EU | Planned SaaS / Audit Kit (Phase 2)): HS/TARIC classification logic, freight audit checks and EU GPSR readiness workflows. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/importklar-eu-customs-gpsr/ | Official: https://cheresonanz-design.github.io/opskanon-directory/listings/importklar-eu-customs-gpsr/
@@ -41,9 +41,12 @@
 - **SECJUR** (EU Compliance & AI Governance | DACH & EU | B2B SaaS (Custom Quote)): Hamburg-based Digital Compliance Office automating GDPR, ISO 27001, NIS2, and EU AI Act readiness. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/secjur-digital-compliance-office/ | Official: https://www.secjur.com/
 - **Stackfield** (B2B Workflow & Lead Ops | DACH & EU | Cloud tiered / On-Prem from ~28 EUR/user/mo): End-to-end encrypted project, workflow, and team collaboration hosted exclusively in Germany (ISO 27001 & BSI C5). — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/stackfield-gdpr-project-ops/ | Official: https://www.stackfield.com/
 - **DataGuard** (EU Compliance & AI Governance | DACH & EU / UK | B2B SaaS + Advisory (Custom Tier)): Hybrid GDPR, ISO 27001, NIS2, and EU AI Act compliance platform combining SaaS with certified experts. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/dataguard-gdpr-iso-ai-act/ | Official: https://www.dataguard.de/
+- **Clockodo** (Agency Finance & Margin Ops | DACH & EU | From 9.50 EUR/user/mo (Pro annual) / Free solo tier): German project time tracking, billable budget controlling, and invoicing integration for agencies and consultancies. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/clockodo-agency-time-margin/ | Official: https://www.clockodo.com/
+- **finway** (E-Invoicing & Audit Automation | DACH / Germany | B2B SaaS from ~199 EUR/month (Essential annual)): Munich-based SME spend management & purchase-to-pay OS with native XRechnung, ZUGFeRD, and direct DATEV export. — Listing: https://cheresonanz-design.github.io/opskanon-directory/listings/finway-spend-xrechnung-datev/ | Official: https://www.finway.de/
 
 ## Executive Briefings
 
+- [Issue #004: Agency Margin Defense, Spend Governance & 2027 E-Invoice Readiness in DACH](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-004-agency-budget-control-spend-einvoicing/) (2026-11-23): How boutique agencies and German SMEs close profit leaks between time tracking, purchase-to-pay approvals, and deterministic XRechnung/ZUGFeRD pre-checks.
 - [Issue #003: Sovereign DACH Ops Stack — XRechnung AP Automation, BSI C5 Collaboration & AI Act Governance](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-003-german-hosted-ops-gdpr-ap-automation/) (2026-11-23): Why German and EU mid-market buyers increasingly consolidate around sovereign DACH tools with native XRechnung 3.0, BSI C5 encryption, and unified NIS2/AI Act audit trails.
 - [Issue #002: E-Rechnung 2027/2028 & EU AI Act Deployer Readiness — The DACH B2B Buyer Shortlist](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-002-erechnung-2027-ai-act-deployer-checklist/) (2026-11-23): Mandatory XRechnung/ZUGFeRD issuance thresholds hit 800,000 EUR turnover companies on Jan 1, 2027, while EU AI Act governance rules tighten vendor audits across DACH SMEs.
 - [Issue #001: Why Static Calculators & Verified Checklists Outconvert SaaS Bloat in 2026](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-001-zero-bloat-b2b-ops-stack/) (2026-11-22): How boutique agencies and DACH SMEs cut margin leakage by 15-30% using zero-macro spreadsheets, deterministic validation, and self-serve Stripe workflows.
