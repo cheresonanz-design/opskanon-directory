@@ -40,6 +40,7 @@
 
 ## Executive Briefings
 
+- [Issue #002: E-Rechnung 2027/2028 & EU AI Act Deployer Readiness — The DACH B2B Buyer Shortlist](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-002-erechnung-2027-ai-act-deployer-checklist/) (2026-11-23): Mandatory XRechnung/ZUGFeRD issuance thresholds hit 800,000 EUR turnover companies on Jan 1, 2027, while EU AI Act governance rules tighten vendor audits across DACH SMEs.
 - [Issue #001: Why Static Calculators & Verified Checklists Outconvert SaaS Bloat in 2026](https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-001-zero-bloat-b2b-ops-stack/) (2026-11-22): How boutique agencies and DACH SMEs cut margin leakage by 15-30% using zero-macro spreadsheets, deterministic validation, and self-serve Stripe workflows.
 
 ## Sponsoring Tiers
