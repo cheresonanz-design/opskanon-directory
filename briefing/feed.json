@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-006-agency-billing-consent-fair-hiring-dach/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-006-agency-billing-consent-fair-hiring-dach/",
+      "title": "Issue #006: Agency Billing Velocity, E-Invoice Automation & EU Consent/HR Compliance in DACH",
+      "summary": "How German and Swiss SMEs combine streamlined retainer billing, XRechnung automation, GDPR consent governance, and fair-hiring audits without enterprise bloat.",
+      "content_text": "# Issue #006: Agency Billing Velocity, E-Invoice Automation & EU Consent/HR Compliance in DACH\n\n- **Published:** 2026-11-23\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow German and Swiss SMEs combine streamlined retainer billing, XRechnung automation, GDPR consent governance, and fair-hiring audits without enterprise bloat.\n\n## Lead Insight\nOperational friction compounds across disconnected stacks: agencies under-bill uncaptured hours while compliance teams scramble ahead of 2027 e-invoicing and EU AI Act enforcement. Pairing deterministic agency billing (MOCO, MarginProof) and native XRechnung dispatch (easybill, CheDataCheck) with Munich-based consent governance (Usercentrics) and zero-upload HR Annex III screening (EchoMoral Fair-Recruiting) keeps audit trails airtight at near-zero overhead.\n\n## Featured Directory Listings\n- **MOCO** (Agency Finance & Margin Ops) — Zurich-based agency project management, resource planning, time tracking, and recurring retainer billing. [From ~9.50 EUR/user/mo (tiered)]\n- **easybill** (E-Invoicing & Audit Automation) — German cloud invoicing platform with native XRechnung, ZUGFeRD, DATEV export, and automated dunning workflows. [Free basic tier / Paid plans (Starter to Premium)]\n- **Usercentrics** (EU Compliance & AI Governance) — Munich-based enterprise & SME Consent Management Platform (CMP) for GDPR, ePrivacy, and EU DMA compliance. [Free/Starter tiers to Enterprise SaaS]\n- **EchoMoral Fair-Recruiting & AGG Scanner** (EU Compliance & AI Governance) — Free 100% client-side AGG proxy scanner, weighted blind-screening scorecard & 6-month GDPR retention tracker. [Free Browser Audit / 49 EUR Kit / 2,900 EUR Rollout]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Agency, Finance & Legal/HR Buyers** — Book Issue #007 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-23T08:00:00Z",
+      "tags": [
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "eu-compliance-governance",
+        "eu-compliance-governance",
+        "einvoicing-tax-audit"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-005-corporate-card-spend-agency-capacity-dach/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-005-corporate-card-spend-agency-capacity-dach/",
       "title": "Issue #005: Corporate Card Governance, Direct DATEV Sync & Sovereign Agency Capacity in DACH",
