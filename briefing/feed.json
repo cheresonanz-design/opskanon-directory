@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-010-dach-business-banking-elster-swiss-ops/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-010-dach-business-banking-elster-swiss-ops/",
+      "title": "Issue #010: DACH Business Banking, Direct ELSTER Tax Prep & Swiss Agency Accounting",
+      "summary": "How German and Swiss freelancers, SMEs, and agencies connect bank-native XRechnung/ZUGFeRD capture, ELSTER submissions, and local browser pre-checks without manual month-end exports.",
+      "content_text": "# Issue #010: DACH Business Banking, Direct ELSTER Tax Prep & Swiss Agency Accounting\n\n- **Published:** 2026-11-24\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow German and Swiss freelancers, SMEs, and agencies connect bank-native XRechnung/ZUGFeRD capture, ELSTER submissions, and local browser pre-checks without manual month-end exports.\n\n## Lead Insight\nEvery disconnected bank feed and unvalidated XML attachment creates friction at tax time. Pairing bank-native DATEV/ZUGFeRD workflows (Qonto) or direct ELSTER filing for Kleinunternehmer & solo founders (Accountable) with Swiss QR-billing and SECO time tracking (bexio) alongside zero-upload XRechnung validation (CheDataCheck) and rate guardrails (MarginProof) turns DACH finance into a clean, repeatable stack.\n\n## Featured Directory Listings\n- **Qonto** (E-Invoicing & Audit Automation) — European B2B business account with native ZUGFeRD & XRechnung intake, GoBD archiving, team expense cards, and direct DATEV integration. [From ~9 EUR/month (Basic) / Smart from ~19 EUR/month (DATEV)]\n- **Accountable** (E-Invoicing & Audit Automation) — German self-employed and Kleinunternehmer bookkeeping & tax app with XRechnung/ZUGFeRD invoicing, receipt OCR, and direct ELSTER filing. [Free tier (0 EUR) / Accounting from 19.90 EUR/mo / Tax from 29.90 EUR/mo]\n- **bexio** (Agency Finance & Margin Ops) — Swiss cloud business software combining QR-invoicing, SECO-compliant project time tracking, e-banking reconciliation, and fiduciary accounting. [30-day free trial / Tiered SaaS (Advanced, Optima, Ultimate)]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR B2B SOW Inquiry]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Banking & Agency Buyers** — Book Issue #011 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-24T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-009-automated-invoice-capture-vat-agency-ops-dach/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-009-automated-invoice-capture-vat-agency-ops-dach/",
       "title": "Issue #009: Automated Invoice Capture, EU OSS VAT & Lean Freelance Accounting in DACH",
