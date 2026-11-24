@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-012-dach-spend-agency-erp-gdpr-signals/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-012-dach-spend-agency-erp-gdpr-signals/",
+      "title": "Issue #012: DACH Spend Control, Agency ERP Margin Defense & GDPR-Compliant B2B Signals",
+      "summary": "How European agencies and mid-market finance teams align DATEV-native corporate spend, XRechnung-ready agency ERPs, and GDPR-compliant DACH go-to-market intelligence.",
+      "content_text": "# Issue #012: DACH Spend Control, Agency ERP Margin Defense & GDPR-Compliant B2B Signals\n\n- **Published:** 2026-11-24\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow European agencies and mid-market finance teams align DATEV-native corporate spend, XRechnung-ready agency ERPs, and GDPR-compliant DACH go-to-market intelligence.\n\n## Lead Insight\nGrowth stalls when outbound pipelines, project delivery, and finance reconciliation pull in opposite directions. Pairing DATEV Rechnungsdatenservice spend governance (Pleo) and XRechnung-ready agency resource ERP (PROAD, MarginProof) with European GDPR-compliant account intelligence (Dealfront) and deterministic local B2B/e-invoice audits (CheDataCheck) builds an auditable DACH revenue engine.\n\n## Featured Directory Listings\n- **Pleo** (E-Invoicing & Audit Automation) — European corporate spend management & company cards with native DATEV Rechnungsdatenservice 1.0 pre-accounting and GoBD receipt archive. [From 14 EUR/user/month (Build) / 18 EUR/user/month (Optimise, min. 3 users)]\n- **PROAD** (Agency Finance & Margin Ops) — Modular DACH agency ERP combining project controlling, capacity planning, time tracking, native XRechnung export, and DATEV FIBU sync. [From 22 EUR/user/month (modular agency ERP)]\n- **Dealfront** (B2B Workflow & Lead Ops) — European GDPR-compliant Go-To-Market & B2B sales intelligence platform (Echobot + Leadfeeder) for DACH account targeting and intent signals. [Web Visitors from ~99 EUR/month; DACH Target/Connect packages from ~14,988 EUR/year]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR B2B SOW Inquiry]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Agency & RevOps Leaders** — Book Issue #013 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-24T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "agency-finance-pricing",
+        "workflow-lead-ops",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-011-dach-agency-erp-einvoicing-time-control/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-011-dach-agency-erp-einvoicing-time-control/",
       "title": "Issue #011: DACH Agency Margin Controlling, Cloud E-Invoicing & Audit-Ready Time Tracking",
