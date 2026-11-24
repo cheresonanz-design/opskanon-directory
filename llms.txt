@@ -87,7 +87,7 @@
 
 - **SP-LISTING — Verified Featured Listing** (49 EUR / month, Stripe Payment Link (Recurring)): https://cheresonanz-design.github.io/opskanon-directory/sponsor/
 - **SP-BRIEFING — Briefing Issue Primary Sponsor** (149 EUR / issue, Stripe Payment Link (One-Time)): https://cheresonanz-design.github.io/opskanon-directory/sponsor/
-- **SP-PARTNER — Annual Category Partner & Custom Lead Funnel** (2,400 EUR / year, Stripe Invoice / Payment Link): https://cheresonanz-design.github.io/opskanon-directory/sponsor/
+- **SP-PARTNER — Annual Category Partner & Custom Lead Funnel** (2,400 EUR / year, Stripe Payment Link (One-Time Annual)): https://cheresonanz-design.github.io/opskanon-directory/sponsor/
 
 ## Operator & Governance
 
