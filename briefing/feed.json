@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-009-automated-invoice-capture-vat-agency-ops-dach/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-009-automated-invoice-capture-vat-agency-ops-dach/",
+      "title": "Issue #009: Automated Invoice Capture, EU OSS VAT & Lean Freelance Accounting in DACH",
+      "summary": "How DACH SMEs, agencies, and e-commerce finance teams eliminate manual portal downloads, automate cross-border EU VAT/DATEV booking, and pair free browser pre-checks with lean accounting stacks.",
+      "content_text": "# Issue #009: Automated Invoice Capture, EU OSS VAT & Lean Freelance Accounting in DACH\n\n- **Published:** 2026-11-24\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow DACH SMEs, agencies, and e-commerce finance teams eliminate manual portal downloads, automate cross-border EU VAT/DATEV booking, and pair free browser pre-checks with lean accounting stacks.\n\n## Lead Insight\nManual invoice chasing and cross-border marketplace VAT errors create avoidable month-end bottlenecks. Connecting automated portal retrieval (GetMyInvoices) and EU VAT/OSS compliance (Taxdoo) with lean agency invoicing (Papierkram, MarginProof) and zero-upload XRechnung/DATEV pre-checks (CheDataCheck) keeps DACH finance stacks audit-ready at minimal overhead.\n\n## Featured Directory Listings\n- **GetMyInvoices** (E-Invoicing & Audit Automation) — Kassel-based automated invoice retrieval from 10,000+ portals with OCR extraction and direct sync to DATEV, sevDesk, and Lexware Office. [From 19 EUR/month (Free trial)]\n- **Taxdoo** (E-Invoicing & Audit Automation) — Hamburg-based automated EU VAT, OSS reporting, and e-commerce financial accounting platform with DATEV-ready ledger exports. [From 49 EUR/month (Basic Go / Comfort Pro tiers)]\n- **Papierkram** (Agency Finance & Margin Ops) — Wiesbaden-based cloud invoicing, XRechnung/ZUGFeRD, time tracking, and EÜR accounting built for German freelancers and small agencies. [Free tier / Paid from 9.90 EUR/month (S/M/L)]\n- **CheDataCheck Kanzlei & DATEV Pre-Accounting** (E-Invoicing & Audit Automation) — Free 100% client-side Steuerkanzlei missing-receipt triage, § 14 UStG pre-check, SKR03/SKR04 mapping, and DATEV EXTF CSV generator. [Free Browser Tool / 49 EUR Kit / 2,900 EUR Rollout]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, E-Commerce & Agency Buyers** — Book Issue #010 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-24T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-008-gobd-accounting-compliance-training-dach/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-008-gobd-accounting-compliance-training-dach/",
       "title": "Issue #008: GoBD Bookkeeping, EU AI Act Staff Literacy & Sovereign Workflow Databases in DACH",
