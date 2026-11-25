@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-015-dach-csrd-gobd-psa-ops/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-015-dach-csrd-gobd-psa-ops/",
+      "title": "Issue #015: DACH CSRD Carbon Accounting, GoBD E-Invoice Archiving & Consulting PSA Controlling",
+      "summary": "How DACH consultancies and mid-market enterprises connect TÜV-certified Scope 1–3 CSRD reporting, GoBD-compliant XRechnung/ZUGFeRD workflows, and integrated PSA margin controlling.",
+      "content_text": "# Issue #015: DACH CSRD Carbon Accounting, GoBD E-Invoice Archiving & Consulting PSA Controlling\n\n- **Published:** 2026-11-25\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow DACH consultancies and mid-market enterprises connect TÜV-certified Scope 1–3 CSRD reporting, GoBD-compliant XRechnung/ZUGFeRD workflows, and integrated PSA margin controlling.\n\n## Lead Insight\nMid-market DACH operators face overlapping mandates across CSRD/VSME carbon reporting, GoBD e-invoice archiving, and project margin visibility. Pairing TÜV-certified carbon accounting (Plan A) and local VSME/EUDR pre-checks (ImportKlar) with GoBD XRechnung/ZUGFeRD workflow routing (DocuWare, CheDataCheck) and integrated DACH PSA controlling (Vertec, MarginProof) keeps audit evidence and unit economics aligned.\n\n## Featured Directory Listings\n- **Plan A** (EU Compliance & AI Governance) — Berlin-headquartered TÜV Rheinland-certified corporate carbon accounting (Scopes 1–3) and CSRD/ESRS compliance reporting platform. [Custom B2B Quote (Essential / Pro / Enterprise)]\n- **DocuWare** (E-Invoicing & Audit Automation) — German enterprise document management and Intelligent Document Processing platform with GoBD archiving and native XRechnung/ZUGFeRD workflows. [Custom Cloud / On-Premises Quote (demo/trial)]\n- **Vertec** (Agency Finance & Margin Ops) — Zurich-headquartered CRM & ERP (PSA) software for consultancies, agencies, law firms, and engineering teams across DACH. [Cloud Suite from ~46 EUR/user/mo (first 10 users) or On-Premises license]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR B2B SOW Inquiry]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Consulting & ESG Compliance Buyers** — Book Issue #016 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-25T08:00:00Z",
+      "tags": [
+        "eu-compliance-governance",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-014-dach-peppol-qes-project-time-ops/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-014-dach-peppol-qes-project-time-ops/",
       "title": "Issue #014: DACH Peppol E-Invoicing, eIDAS QES Signing & Agency Project-Time Controlling",
