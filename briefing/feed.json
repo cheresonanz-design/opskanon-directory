@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-014-dach-peppol-qes-project-time-ops/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-014-dach-peppol-qes-project-time-ops/",
+      "title": "Issue #014: DACH Peppol E-Invoicing, eIDAS QES Signing & Agency Project-Time Controlling",
+      "summary": "How DACH consultancies and finance teams connect Peppol/XRechnung exchange, legally binding eIDAS QES contracts, and DATEV-synced project time tracking.",
+      "content_text": "# Issue #014: DACH Peppol E-Invoicing, eIDAS QES Signing & Agency Project-Time Controlling\n\n- **Published:** 2026-11-25\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow DACH consultancies and finance teams connect Peppol/XRechnung exchange, legally binding eIDAS QES contracts, and DATEV-synced project time tracking.\n\n## Lead Insight\nCross-border DACH operations require both compliant infrastructure and tight margin visibility. Pairing accredited Peppol/EDI routing (ecosio) and local zero-upload EN-16931 validation (CheDataCheck) with eIDAS/ZertES QES execution (Skribble), DATEV-connected project controlling (ZEP), and deterministic SOW rate guardrails (MarginProof) closes compliance gaps from signature to cash.\n\n## Featured Directory Listings\n- **ecosio** (E-Invoicing & Audit Automation) — Vienna-founded managed B2B EDI hub and accredited Peppol Access Point for automated XRechnung, ZUGFeRD & ebInterface compliance. [Custom Enterprise B2B Quote]\n- **Skribble** (EU Compliance & AI Governance) — DACH electronic signature platform for legally binding eIDAS & Swiss ZertES contracts (SES, AES, and Qualified Electronic Signatures). [Free Starter (0 EUR base, pay-per-use) / Team from ~23 EUR/user/mo]\n- **ZEP** (Agency Finance & Margin Ops) — German ISO 27001-certified project time tracking, agency controlling & ZUGFeRD invoicing platform with direct DATEV & LODAS sync. [14-day free trial / Paid plans from 4.50 EUR/user/mo (annual)]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR B2B SOW Inquiry]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Agency & Compliance Buyers** — Book Issue #015 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-25T08:00:00Z",
+      "tags": [
+        "einvoicing-tax-audit",
+        "eu-compliance-governance",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "agency-finance-pricing"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-013-dach-cashflow-einvoicing-gdpr-crm/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-013-dach-cashflow-einvoicing-gdpr-crm/",
       "title": "Issue #013: DACH Liquidity Forecasting, XRechnung Billing & German-Hosted GDPR CRM Ops",
