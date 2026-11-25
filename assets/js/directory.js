@@ -74,6 +74,7 @@
       grid.innerHTML = list
         .map(function (e) {
           var badges =
+            (e.sponsored ? '<span class="pill pill-amber">Anzeige · Sponsored</span> ' : "") +
             (e.own_product ? '<span class="pill pill-sky">Own Product · VeriTakt</span> ' : "") +
             (e.featured ? '<span class="pill pill-amber">' + (e.own_product ? "In-House Showcase" : "Featured") + "</span> " : "") +
             (e.verified ? '<span class="pill pill-emerald">Verified</span> ' : "") +
