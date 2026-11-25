@@ -6,6 +6,21 @@
   "description": "Curated DACH & EU Compliance, E-Invoicing & B2B Operations Directory + Executive Briefing",
   "items": [
     {
+      "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-013-dach-cashflow-einvoicing-gdpr-crm/",
+      "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-013-dach-cashflow-einvoicing-gdpr-crm/",
+      "title": "Issue #013: DACH Liquidity Forecasting, XRechnung Billing & German-Hosted GDPR CRM Ops",
+      "summary": "How DACH agencies and mid-market finance teams pair EBICS cash flow forecasting, native XRechnung/ZUGFeRD invoicing, and German-hosted flat-tier CRM workflows with zero-upload local audits.",
+      "content_text": "# Issue #013: DACH Liquidity Forecasting, XRechnung Billing & German-Hosted GDPR CRM Ops\n\n- **Published:** 2026-11-25\n- **Publisher:** OpsKanon (by VeriTakt Collective)\n\n## Executive Summary\nHow DACH agencies and mid-market finance teams pair EBICS cash flow forecasting, native XRechnung/ZUGFeRD invoicing, and German-hosted flat-tier CRM workflows with zero-upload local audits.\n\n## Lead Insight\nSustainable agency margin depends on connecting pipeline visibility with cash conversion and compliant invoicing. Combining German-hosted CRM pipelines (CentralStationCRM) and native XRechnung/ZUGFeRD billing (Billomat, CheDataCheck) with multi-bank DATEV liquidity forecasting (Agicap) and deterministic rate/cashflow guardrails (MarginProof) eliminates spreadsheet blind spots without enterprise seat bloat.\n\n## Featured Directory Listings\n- **Agicap** (Agency Finance & Margin Ops) — European SME & agency cash flow forecasting, multi-bank EBICS liquidity tracking, and AP/AR automation with DATEV cloud sync. [Custom B2B Quote (14-day trial / demo)]\n- **Billomat** (E-Invoicing & Audit Automation) — German cloud invoicing & pre-accounting platform (aifinyo group) with native XRechnung and ZUGFeRD creation, recurring billing, and DATEV export. [14-day free trial / Paid plans from ~19 EUR/month]\n- **CentralStationCRM** (B2B Workflow & Lead Ops) — Cologne-based GDPR-compliant B2B CRM hosted on German servers with flat team-package pricing for agencies, consultancies, and SMEs. [Free Starter (0 EUR, 3 users) / Team from ~24 EUR/mo]\n- **MarginProof Operations Stack** (Agency Finance & Margin Ops) — Rate calculators, retainer scope-creep defense & multi-currency tax reserve workbooks. [One-time 19-49 EUR (Payhip) / 3,500-7,500 EUR Rollout]\n- **CheDataCheck E-Invoice Validator** (E-Invoicing & Audit Automation) — Free 100% client-side XRechnung 3.0 & ZUGFeRD 2.3 XML/PDF pre-check in browser with zero server uploads. [Free Browser Pre-Check / 39 EUR Audit-Kit / 2,500 EUR B2B SOW Inquiry]\n\n## Sponsor Spotlight\n**Open Primary Sponsor Slot — Reach DACH Finance, Agency & Compliance Buyers** — Book Issue #014 Sponsor Slot (149 EUR)",
+      "date_published": "2026-11-25T08:00:00Z",
+      "tags": [
+        "agency-finance-pricing",
+        "einvoicing-tax-audit",
+        "workflow-lead-ops",
+        "agency-finance-pricing",
+        "einvoicing-tax-audit"
+      ]
+    },
+    {
       "id": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-012-dach-spend-agency-erp-gdpr-signals/",
       "url": "https://cheresonanz-design.github.io/opskanon-directory/briefing/issue-012-dach-spend-agency-erp-gdpr-signals/",
       "title": "Issue #012: DACH Spend Control, Agency ERP Margin Defense & GDPR-Compliant B2B Signals",
